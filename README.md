@@ -1,13 +1,13 @@
 # Hi, I'm Ignazio Maria Castrignano, or for my friends, Irio! 👋
 
-Pro-active and determined student with a flexible mindset, open to new opportunities and challenges. Curious by nature, a quick learner with a strong sense of duty. 
+Pro-active and determined student with a flexible mindset, open to new challenges. Curious by nature, a quick learner with a strong sense of duty. 
 Extremely motivated to develop my skills and grow professionally. Passionate about AI Agents, Cloud, and Startups.
 
 ## 🚀 About Me
-- 🤖 Ex Intern in Tesla Berlin, working on the Cybertruck Project Management
+- 🤖 Ex Intern in Tesla Berlin, working on the Cybertruck 
 - 📚 Winner of Best Short Paper award in top-tier IEEE conferences for a research paper
-- 🎓 M.Sc. & B.Sc. Automation & Control Engineering at Politecnico di Milano (1# Top-ranked university in Italy)
-- 🔬 Visiting Research Scholar at University of California, Davis focusing on cloud resilience and network optimization
+- 🎓 M.Sc. & B.Sc. Automation & Control Engineering at Politecnico di Milano (1# ranked university in Italy)
+- 🔬 Visiting Research at University of California, Davis focusing on cloud computing
 
 ## 🛠️ Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=python,azure,aws,pytorch,scikit-learn)](https://skillicons.dev)
