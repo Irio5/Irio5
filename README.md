@@ -27,7 +27,7 @@ Claude Code · Cursor · PostHog · Loom · Telegram Bots
 
 - LinkedIn: [linkedin.com/in/ignaziomariacastrignano](https://linkedin.com/in/ignaziomariacastrignano)
 - Email: ignazio.maria.castrignano@gmail.com
-- Grab a time in my calendar!  [GoogleCalendar]([https://linkedin.com/in/ignaziomariacastrignano](https://calendar.app.google/9bKQ2G2vsJVzcYpZ7))
+- Grab a time in my calendar!  [calendar.app.google/9bKQ2G2vsJVzcYpZ7](https://calendar.app.google/9bKQ2G2vsJVzcYpZ7))
 
 ---
 
